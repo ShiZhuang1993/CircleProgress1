@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:android_custom="http://schemas.android.com/apk/res/com.example.circlepregress"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="Button"/>
+
+    <com.example.roundprogressbar.RoundProgressBar
+        android:id="@+id/roundProgressBar2"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android_custom:roundColor="#D1D1D1"
+        android_custom:roundProgressColor="@android:color/black"
+        android_custom:roundWidth="20dip"
+        android_custom:textColor="#9A32CD"
+        android_custom:textSize="30sp"/>
+
+
+</LinearLayout>

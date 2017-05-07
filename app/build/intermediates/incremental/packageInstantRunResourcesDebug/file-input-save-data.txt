@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Sat May 06 11:01:30 CST 2017
+1.base=E\:\\Studio\\CircleProgress1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\Studio\\CircleProgress1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.file=E\:\\Studio\\CircleProgress1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+2.base=E\:\\Studio\\CircleProgress1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=E\:\\Studio\\CircleProgress1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_cricle_progress.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=E\:\\Studio\\CircleProgress1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=E\:\\Studio\\CircleProgress1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\Studio\\CircleProgress1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=E\:\\Studio\\CircleProgress1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_cricle_progress.xml
+4.base=E\:\\Studio\\CircleProgress1\\app\\build\\intermediates\\res\\resources-debug.ap_
